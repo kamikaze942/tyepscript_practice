@@ -1,0 +1,12 @@
+{
+    "github.copilot.chat.commitMessageGeneration.instructions": [
+        {
+            "text": "add emojois to the commit message to make it sound like a bro"
+        }
+    ],
+    "github.copilot.chat.reviewSelection.instructions": [
+        {
+            "text": "Use single quotes for strings in JavaScript"
+        }
+    ]
+}
