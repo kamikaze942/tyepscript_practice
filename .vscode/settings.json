@@ -6,7 +6,8 @@
     ],
     "github.copilot.chat.reviewSelection.instructions": [
         {
-            "text": "Use single quotes for strings in JavaScript"
+            "text": "Use single quotes for strings.",
+            "file": "guidance/review-guidelines.md"
         }
     ]
 }
